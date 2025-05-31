@@ -1,0 +1,23 @@
+{
+  "name": "web_aut_arturs_silins_final_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAlphaF/WEB_AUT_ARTURS_SILINS_FINAL_TASK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrAlphaF/WEB_AUT_ARTURS_SILINS_FINAL_TASK/issues"
+  },
+  "homepage": "https://github.com/MrAlphaF/WEB_AUT_ARTURS_SILINS_FINAL_TASK#readme",
+  "devDependencies": {
+    "cypress": "^14.4.0"
+  }
+}
